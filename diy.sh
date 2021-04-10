@@ -32,7 +32,7 @@ my_scripts_list_1="
 
 ############################## 维护:i-chenzhe ##############################
 # 库地址:https://github.com/monk-coder/dust/tree/dust/i-chenzhe
-scripts_base_url_2=https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/
+scripts_base_url_2=https://ghproxy.com/https://raw.githubusercontent.com/zxfandyy/icc/main/
 my_scripts_list_2="
 z_entertainment.js
 z_fanslove.js
